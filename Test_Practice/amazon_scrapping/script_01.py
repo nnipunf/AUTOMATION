@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from openpyxl import Workbook
 import smtplib
-from email.message import EmailMessage  
+from email.message import EmailMessage
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.maximize_window()
