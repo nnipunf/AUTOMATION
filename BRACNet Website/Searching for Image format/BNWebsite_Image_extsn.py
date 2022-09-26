@@ -5,9 +5,6 @@ from selenium.webdriver.common.by import By
 import requests
 from bs4 import BeautifulSoup
 
-import requests
-from bs4 import BeautifulSoup
-
 
 def getdata(url):
     r = requests.get(url)
@@ -42,7 +39,6 @@ soup = BeautifulSoup(htmldata, 'html.parser')
 for item in soup.find_all('img'):
     print(item['src'])
 
-
 ######################################################################################################
 print('___software-development___')
 htmldata = getdata("https://bracnet.vercel.app/software-development")
@@ -63,6 +59,7 @@ htmldata = getdata("https://bracnet.vercel.app/network-security")
 soup = BeautifulSoup(htmldata, 'html.parser')
 for item in soup.find_all('img'):
     print(item['src'])
+
 ######################################################################################################
 print('___surveillance___')
 htmldata = getdata("https://bracnet.vercel.app/surveillance")
