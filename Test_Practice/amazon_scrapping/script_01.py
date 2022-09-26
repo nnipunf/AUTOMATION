@@ -7,6 +7,7 @@ from openpyxl import Workbook
 import smtplib
 from email.message import EmailMessage
 
+
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.maximize_window()
 driver.get("https://www.amazon.com/")
@@ -35,15 +36,14 @@ finalList = zip(myphone, myprice)
     #print(data)
 
 print("PART01")
-###################################################
+###########################################################################
 
 
 ###store data in a excel file with openpyXL
-
-##object of workbook class
+###object of workbook class
 wb = Workbook()
 wb['Sheet'].title = 'Samsung Data'
-#sheet01 of work book
+#sheet01 of workbook
 sheet1 = wb.active
 sheet1.append(['Name', 'Price'])
 
@@ -54,6 +54,32 @@ for x in list(finalList):
 wb.save("FinalRecords.xlsx")
 
 print("PART02")
-###################################################
+
+
+
+############################################################################
+
+msg = EmailMessage()
+msg['Subject'] = 'Amazon Scrapping Report'
+msg['From'] = 'Nipun Ferdous'
+msg['To'] = 'nipun.ferdous@bracmail.net'
+#msg.set_content("The scrapping test file is attached")
+#read text file
+
+with open('EmailTemplate.txt') as myfile:
+    email_data = myfile.read()
+    msg.set_content(email_data)
+
+
+with smtplib.SMTP_SSL('smtp.office365.com', 587) as sending_server:
+    sending_server.login("nipun.ferdous@bracmail.net", "Duv87153")
+    sending_server.send_message(msg)
+
+
+print('Email Sent!')
+
+
+
 
 #driver.quit()
+
