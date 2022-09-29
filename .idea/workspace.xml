@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e5114ab0-0d97-41cb-beac-e3f4f5db7af7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Practice/amazon_scrapping/script_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Practice/amazon_scrapping/script_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Driven Testing/Basic Dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_Testing/Basic Dropdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Driven Testing/Unittesting02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_Testing/Unittesting02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Driven Testing/unittesting01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_Testing/unittesting01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Driven Testing/unittesting03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_Testing/unittesting03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Driven Testing/unittesting04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_Testing/unittesting04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,75 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.pytest in unittesting04.py">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\NIPUN_BRACNET\Software QA\AUTOMATION\Automation_Practice\MultipleWindow" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mousehover01">
+    <configuration name="Multiple_windows (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AUTOMATION" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_Practice/MultipleWindow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automation_Practice/MultipleWindow/Multiple_windows.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Multiple_windows" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AUTOMATION" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_Practice/Alert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="G:\NIPUN_BRACNET\Software QA\AUTOMATION\Automation_Practice\MultipleWindow\Multiple_windows.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alert01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AUTOMATION" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_Practice/Alert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automation_Practice/Alert/alert01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AUTOMATION" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,93 +173,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for unittesting04.SumTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="mousehover01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AUTOMATION" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Driven Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_Practice/MouseHover" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;unittesting04.SumTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automation_Practice/MouseHover/mousehover01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for unittesting04.SumTest.test_sumfunc_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in exception03.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="AUTOMATION" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Driven Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit_Testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;unittesting04.SumTest.test_sumfunc_1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for unittesting04.SumTest.test_sumfunc_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="AUTOMATION" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Driven Testing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;unittesting04.SumTest.test_sumfunc_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for unittesting04.test_sumfuc_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="AUTOMATION" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Driven Testing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;unittesting04.test_sumfuc_1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in unittesting04.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="AUTOMATION" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Driven Testing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Data Driven Testing/unittesting04.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Unit_Testing/exception03.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in unittesting04.py" />
-        <item itemvalue="Python tests.pytest for unittesting04.SumTest.test_sumfunc_1" />
-        <item itemvalue="Python tests.pytest for unittesting04.SumTest.test_sumfunc_2" />
-        <item itemvalue="Python tests.pytest for unittesting04.SumTest" />
-        <item itemvalue="Python tests.pytest for unittesting04.test_sumfuc_1" />
+        <item itemvalue="Python.mousehover01" />
+        <item itemvalue="Python.Multiple_windows (1)" />
+        <item itemvalue="Python.Multiple_windows" />
+        <item itemvalue="Python.alert01" />
+        <item itemvalue="Python tests.pytest in exception03.py" />
       </list>
     </recent_temporary>
   </component>
