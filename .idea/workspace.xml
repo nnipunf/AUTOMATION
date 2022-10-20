@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e5114ab0-0d97-41cb-beac-e3f4f5db7af7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/datadrive_Task01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/data/login_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/data/login_data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/page/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/page/login_dd_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/test/login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/test/login_dd_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/utils/excel_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/utils/excel_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/output.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest_html_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Framework_POM/report/pytest_html_report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.htmlcls" beforeDir="false" afterPath="$PROJECT_DIR$/report.htmlcls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.htmlclscls" beforeDir="false" afterPath="$PROJECT_DIR$/report.htmlclscls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "G:/NIPUN_BRACNET/Software QA/AUTOMATION",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/NIPUN_BRACNET/Software QA/AUTOMATION&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\NIPUN_BRACNET\Software QA\AUTOMATION\DataDrivenFramework\report" />
@@ -50,7 +52,28 @@
       <recent name="G:\NIPUN_BRACNET\Software QA\AUTOMATION\Automation_Practice\MultipleWindow" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for login_test.LoginTest.test_Invalid_login">
+  <component name="RunManager" selected="Python.login_dd_page">
+    <configuration name="login_dd_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AUTOMATION" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataDrivenFramework/page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataDrivenFramework/page/login_dd_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AUTOMATION" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,29 +201,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_fixture_demo02.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="AUTOMATION" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Framework-Pytest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Framework-Pytest/test_fixture_demo02.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.login_dd_page" />
         <item itemvalue="Python tests.pytest for login_test.LoginTest.test_Invalid_login" />
         <item itemvalue="Python tests.pytest in login_test.py" />
         <item itemvalue="Python tests.pytest for login_test.LoginTest" />
         <item itemvalue="Python tests.pytest for login_test.LoginTest.test_valid_login" />
-        <item itemvalue="Python tests.pytest in test_fixture_demo02.py" />
       </list>
     </recent_temporary>
   </component>
