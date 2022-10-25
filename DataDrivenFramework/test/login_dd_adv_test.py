@@ -8,6 +8,10 @@ from DataDrivenFramework.page.login_dd_page import LoginPage
 from DataDrivenFramework.utils import excel_utils
 
 
+# Read data and implement in test
+# Write data in Excel
+
+
 
 class LoginTest(unittest.TestCase):
 
@@ -30,6 +34,12 @@ class LoginTest(unittest.TestCase):
 
             lp = LoginPage(driver)
             lp.login_orange(username_data, password_data)
+
+            if driver.current_url == "https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList":
+                excel_utils.writing_data(file, sheet, r, 4, "Login")
+            else:
+                excel_utils.writing_data(file, sheet, r, 4, "Not Login")
+
 
 
 

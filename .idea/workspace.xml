@@ -4,12 +4,11 @@
     <list default="true" id="e5114ab0-0d97-41cb-beac-e3f4f5db7af7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataDrivenFramework/data/login_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/data/login_data.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/page/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/page/login_dd_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/test/login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/test/login_dd_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/page/login_dd_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/page/login_dd_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/test/login_dd_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/test/login_dd_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataDrivenFramework/utils/excel_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/utils/excel_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/output.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report.htmlclscls" beforeDir="false" afterPath="$PROJECT_DIR$/report.htmlclscls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
