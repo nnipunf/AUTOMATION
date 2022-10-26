@@ -31,7 +31,6 @@ class MyInfoTest(unittest.TestCase):
 
         ######try doing with datadriven technique using excel for multiple emergency contacts######
 
-
         driver.close()
 
 
